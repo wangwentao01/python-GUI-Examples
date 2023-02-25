@@ -1,1 +1,2 @@
-# python-GUI-Examples
+### 公众号：Python 集中营
+##### python 实战案例集合，不定时更新！
